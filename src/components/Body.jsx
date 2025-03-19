@@ -1,10 +1,6 @@
 import React, {useState} from 'react'
 import { ChefHatIcon, CookingPot, Utensils, PhoneIcon, CalendarIcon, InstagramIcon } from 'lucide-react';
 
-
-
-
-
 export const Body = () => {
     const [activeCategory, setActiveCategory] = useState('all');
     const menuItems = {
