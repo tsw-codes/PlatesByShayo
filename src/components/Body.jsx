@@ -15,7 +15,7 @@ export const Body = () => {
             { name: "Native Rice", price: 'Plate $20 | Half tray $75 | Full Tray $150', description: ''}
         ],
         soups: [
-            { name: 'Fried Stew (Ata Dindin)', price: 'Half tray $120 | Full tray $200', description: 'Includes shaki, eja kika, and pomo', image: soup},
+            { name: 'Fried Stew (Ata Dindin)', price: 'Half tray $120 | Full tray $200', description: 'Includes shaki, eja kika, and pomo'},
             { name: 'Stew', price: 'Half tray $75 | Full tray $120', description: 'Base price (with your choice of protein)'}, 
             { name: 'Ayamase', price: 'Half tray $150 | Full tray $250', description: '' },
             { name: "Efo Riro", price: 'Half tray $60 | Full tray $110', description: ''},
