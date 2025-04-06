@@ -9,7 +9,7 @@ export const Body = () => {
             { name: 'Fried Rice', price: 'Plate $20 | Half tray $75 | Full Tray $150', description: ''  },
             { name: 'Asun Rice', price: 'Plate $25 | Half tray $100 | Full Tray $200', description: ''},
             { name: "Native Rice", price: 'Plate $20 | Half tray $75 | Full Tray $150', description: ''},
-            {name : "Combo", Price: 'Plate $23', description: ''}
+            { name : 'Combo', price: 'Plate $23', description: ''}
         ],
         soups: [
             { name: 'Fried Stew (Ata Dindin)', price: 'Half tray $120 | Full tray $200', description: 'With your choice of proteins'},
