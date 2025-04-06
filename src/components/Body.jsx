@@ -11,7 +11,7 @@ export const Body = () => {
             { name: "Native Rice", price: 'Plate $20 | Half tray $75 | Full Tray $150', description: ''}
         ],
         soups: [
-            { name: 'Fried Stew (Ata Dindin)', price: 'Half tray $120 | Full tray $200', description: 'Includes shaki, eja kika, and pomo'},
+            { name: 'Fried Stew (Ata Dindin)', price: 'Half tray $120 | Full tray $200', description: ''},
             { name: 'Stew', price: 'Half tray $75 | Full tray $120', description: 'Base price (with your choice of protein)'}, 
             { name: 'Ayamase', price: 'Half tray $150 | Full tray $250', description: '' },
             { name: "Efo Riro", price: 'Half tray $60 | Full tray $110', description: ''},
@@ -20,10 +20,10 @@ export const Body = () => {
             { name: "Ila Asepo", price: 'With goat: Half tray $75 | Full tray $150 • Seafood: Half tray $60 | Full tray $120', description: ''},
         ],
         proteins: [
-            { name: 'Chicken', price: 'Half tray $80 | Full tray $160', description: 'Half tray includes 2 medium sized chickens'},
-            { name: 'Goat Meat', price: 'Half tray $130 | Full tray $250', description: 'Half tray includes 25-30 pieces' },
-            { name: 'Turkey', price: 'Half tray $17 | Full tray $35-50', description: 'Half tray includes 6 pieces (cut into 4)'},
-            { name: 'Fish', price: 'Full tray $170', description: 'Croaker fish' },
+            { name: 'Chicken', price: 'Half tray $80 | Full tray $160', description: ''},
+            { name: 'Goat Meat', price: 'Half tray $130 | Full tray $250', description: '' },
+            { name: 'Turkey', price: 'Half tray $17 | Full tray $35-50', description: ''},
+            { name: 'Fish', price: 'Full tray $170', description: '' },
             { name: 'Assorted meat', price: 'Price varies', description: 'Price depends on mixture selection'},
         ],
         specialties: [
@@ -32,15 +32,15 @@ export const Body = () => {
             { name: 'Moi-moi', price: 'Per piece $4 | 12 pieces $40', description: ''},
             { name: 'Ewa Agoyin', price: 'Plate $20 | Half tray $35 | Full tray $70', description: 'With sauce • Combo $23 (includes protein and plantain)'},
             { name: 'Grilled Whole Fish Platter', price: 'Small fish $40 | Large fish $80', description: ''},
-            { name: 'Bole with Sauce', price: '$25', description: '2-3 plantains, includes fish in sauce'},
+            { name: 'Bole with Sauce', price: '$25', description: ''},
             { name: 'Suya Kabob', price: '3-4 sticks $15 | 6 sticks $30', description: ''},
         ],
         snacks: [
             { name: 'Puff Puff', price: '50 pieces $40', description: ''},
             { name: 'Meat Pie', price: '$3 per piece', description: ''},
-            { name: 'Egg Rolls', price: '$5 per roll', description: 'Large size wrapping' },
-            { name: 'Buns', price: '50 pieces $40', description: 'Medium size'},
-            { name: 'Chin Chin', price: '$5 per pack', description: 'Sweet variety'},
+            { name: 'Egg Rolls', price: '$5 per roll', description: '' },
+            { name: 'Buns', price: '50 pieces $40', description: ''},
+            { name: 'Chin Chin', price: '$5 per pack', description: ''},
         ]
     };
 
