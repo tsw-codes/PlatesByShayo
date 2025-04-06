@@ -102,7 +102,7 @@ export const Body = () => {
                 <div className="mt-8 flex flex-col md:flex-row justify-center gap-6 text-amber-800 mb-6">
           <div className="flex items-center justify-center gap-2">
             <PhoneIcon className="h-5 w-5" />
-            <span> Shola: +1 (301)-458-9434 | Ayomide: +1 (267) 678-9104</span>
+         
           </div>
         </div>
           <div className="flex items-center justify-center gap-2 text-amber-800">
