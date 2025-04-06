@@ -36,11 +36,11 @@ export const Body = () => {
             { name: 'Suya Kabob', price: '3-4 sticks $15 | 6 sticks $30', description: ''},
         ],
         snacks: [
-            { name: 'Puff Puff', price: '50 pieces $40', description: ''},
-            { name: 'Meat Pie', price: '$3 per piece', description: ''},
-            { name: 'Egg Rolls', price: '$5 per roll', description: '' },
-            { name: 'Buns', price: '50 pieces $40', description: ''},
-            { name: 'Chin Chin', price: '$5 per pack', description: ''},
+            { name: 'Puff Puff', price: ' $40', description: ''},
+            { name: 'Meat Pie', price: '$3 ', description: ''},
+            { name: 'Egg Rolls', price: '$5 ', description: '' },
+            { name: 'Buns', price: ' $40', description: ''},
+            { name: 'Chin Chin', price: '$5', description: ''},
         ]
     };
 
