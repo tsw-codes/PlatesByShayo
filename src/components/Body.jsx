@@ -100,10 +100,6 @@ export const Body = () => {
                         and perfect for any occasion—let us handle the food while you enjoy the fun!</p>
                 </div>
                 <div className="mt-8 flex flex-col md:flex-row justify-center gap-6 text-amber-800 mb-6">
-          <div className="flex items-center justify-center gap-2">
-            <PhoneIcon className="h-5 w-5" />
-         
-          </div>
         </div>
           <div className="flex items-center justify-center gap-2 text-amber-800">
             <InstagramIcon className="h-5 w-5" />
