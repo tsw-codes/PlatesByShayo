@@ -8,10 +8,11 @@ export const Body = () => {
             { name: 'Jollof Rice', price: 'Plate $20 | Half tray $75 | Full Tray $150', description: '' },
             { name: 'Fried Rice', price: 'Plate $20 | Half tray $75 | Full Tray $150', description: ''  },
             { name: 'Asun Rice', price: 'Plate $25 | Half tray $100 | Full Tray $200', description: ''},
-            { name: "Native Rice", price: 'Plate $20 | Half tray $75 | Full Tray $150', description: ''}
+            { name: "Native Rice", price: 'Plate $20 | Half tray $75 | Full Tray $150', description: ''},
+            {name : "Combo", Price: 'Plate $23', description: ''}
         ],
         soups: [
-            { name: 'Fried Stew (Ata Dindin)', price: 'Half tray $120 | Full tray $200', description: ''},
+            { name: 'Fried Stew (Ata Dindin)', price: 'Half tray $120 | Full tray $200', description: 'With your choice of proteins'},
             { name: 'Stew', price: 'Half tray $75 | Full tray $120', description: 'Base price (with your choice of protein)'}, 
             { name: 'Ayamase', price: 'Half tray $150 | Full tray $250', description: '' },
             { name: "Efo Riro", price: 'Half tray $60 | Full tray $110', description: ''},
@@ -36,11 +37,11 @@ export const Body = () => {
             { name: 'Suya Kabob', price: '3-4 sticks $15 | 6 sticks $30', description: ''},
         ],
         snacks: [
-            { name: 'Puff Puff', price: ' $40', description: ''},
-            { name: 'Meat Pie', price: '$3 ', description: ''},
-            { name: 'Egg Rolls', price: '$5 ', description: '' },
-            { name: 'Buns', price: ' $40', description: ''},
-            { name: 'Chin Chin', price: '$5', description: ''},
+            { name: 'Puff Puff', price: ' 50 pieces $40', description: ''},
+            { name: 'Meat Pie', price: '$3 per piece', description: ''},
+            { name: 'Egg Rolls', price: '$5 per roll', description: '' },
+            { name: 'Buns', price: ' 50 pieces $40', description: ''},
+            { name: 'Chin Chin', price: '$5 per pack', description: ''},
         ]
     };
 
